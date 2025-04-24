@@ -1,0 +1,26 @@
+{
+    "Testname": {
+        "password": "123456",
+        "first_name": "fwfe",
+        "last_name": "wefwf",
+        "position": "Manager"
+    },
+    "Ivan": {
+        "password": "123456",
+        "first_name": "Ivan",
+        "last_name": "FFFF",
+        "position": "Manager"
+    },
+    "gosho": {
+        "password": "1234567",
+        "first_name": "Georgi",
+        "last_name": "Georgi",
+        "position": "Manager"
+    },
+    "Denis": {
+        "password": "123456",
+        "first_name": "denis",
+        "last_name": "denchev",
+        "position": "Manager"
+    }
+}
